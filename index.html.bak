@@ -124,6 +124,20 @@
 <h3><a name="pub">Publication</a></h3>
         <!--<img src="./Page_files/new.gif"/>-->
 	<ul>
+
+		<li>
+		Tianyi Hao, <span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Yunsheng Cheng, Longbo Huang and Haishan Wu;
+            "<a href="./paper/user2016hao_sigspatial.pdf">User Identification in Cyber-Physical Space: a Case Study on Mobile Query Logs and Trajectories</a>";
+            <strong>ACM SIGSPATIAL 2016</strong>. 
+		</li>
+        <br>
+
+		<li>
+		Mengwen Xu, Tianyi Wang, Zhengwei Wu, <span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Jian Li, Haishan Wu;
+            "<a href="./paper/demand2016xu_sigspatial.pdf">Demand Driven Store Site Selection via Multiple Spatial-temporal Data</a>";
+            <strong>ACM SIGSPATIAL 2016</strong>. 
+		</li>
+        <br>
             
 		<li> 
 		Yongpo Jia, Xuemeng Song, 
@@ -134,6 +148,7 @@
             <strong>AAAI 2016</strong>. 
 		</li>
         <br>
+
 		<li>
 		<span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, 
              <a href="http://www.comp.nus.edu.sg/~atung/">Anthony K. H. Tung</a>;
@@ -148,7 +163,7 @@
             <a href="http://mypage.zju.edu.cn/en/wusai">Sai Wu</a>, 
             <span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, 
             <a href="http://www.comp.nus.edu.sg/~atung/">Anthony K.H. Tung</a>;
-            "<a href="./paper/automatic2013zhou_tkde.pdf">Automatic Itinerary Planning for Traveling Services</a>";
+            "<a href="./paper/Automatic2013zhou_tkde.pdf">Automatic Itinerary Planning for Traveling Services</a>";
             <em>IEEE Transactions on Knowledge and Data Engineering</em> 26(3):514–527
             (<strong>Spotlight paper</strong> for the March issue of <strong>TKDE 2014</strong>). 
 		</li>
