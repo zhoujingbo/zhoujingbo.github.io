@@ -129,9 +129,9 @@
 
     <li>
 		<span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Qi Guo, H. V. Jagadish, Lubos Krcaly, Siyuan Liu, Wenhao Luan, Anthony K. H. Tung, Yueji Yang, Yuxin Zheng;
-        "<a href="http://www.comp.nus.edu.sg/~atung/publication/icde2018_genie.pdf">A Generic Inverted Index Framework for Similarity Search on the GPU</a>"; 
+        "<a href="./paper/generic2018zhou_icde.pdf">A Generic Inverted Index Framework for Similarity Search on the GPU</a>"; 
 		<em>to appear in</em>
-            <strong>ICDE 2018</strong>. [<a href="https://github.com/SeSaMe-NUS/genie">Code</a>]
+            <strong>ICDE 2018</strong>. [<a href="https://github.com/SeSaMe-NUS/genie">code repo</a>, <a href="https://arxiv.org/abs/1603.08390">Technical Report</a>]
 		</li>
         <br>
 
@@ -139,7 +139,11 @@
 		<span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Hongbin Pei, Haishan Wu;
         "<a href="./paper/crowd2018zhou_bds_book.pdf">Early Warning of Human Crowds Based on Query Data from Baidu Maps: Analysis
         Based on Shanghai Stampede</a>"; 
-		<em>Big Data Support of Urban Planning and Management pp 19-41</em>,  Springer, 2018. [book chapter]
+		<em>Big Data Support of Urban Planning and Management pp 19-41</em>,  Springer, 2018. [book chapter] [Media Report: 
+			 <a href="https://www.technologyreview.com/s/601108/baidu-uses-map-searches-to-predict-when-crowds-will-get-out-of-control/"> MIT Technology Review</a>,
+			 <a href="http://blogs.wsj.com/chinarealtime/2016/03/23/crowd-control-baidu-has-an-algorithm-for-that/"> Wall Street Journal</a>, 
+			 <a href="http://www.scmp.com/tech/china-tech/article/1930022/chinese-search-engine-giant-baidu-develops-ai-algorithm-predict"> South China Morning Post</a>
+			 ] 
 		</li>
         <br>
 
@@ -229,6 +233,7 @@
 	
 
 <!-- Start Preprint/Technical Report   -->
+<!--
 <h3><a name="pub">Preprint/Technical Report</a></h3>
 <ul>
 
@@ -253,7 +258,7 @@
              [<a href="http://www.comp.nus.edu.sg/~atung/gl/">Project website</a>] [<a href="https://github.com/SeSaMe-NUS/GPUGENIE-Release">Code</a>]
 		</li>
         <br>
-
+-->
 
 
 
