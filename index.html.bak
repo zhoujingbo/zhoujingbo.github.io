@@ -124,21 +124,12 @@
 	  <br>
 	  <br>
        <span class="style5"><a> <strong>I am looking for interns!</strong> Please contact me if you are interested in working with me on the exciting area of data mining and machine learning. The interns are expected to develop systems and publish in top conferences/journals.</a> </span>
-      <br>
+
 
 <!-- Start publication   -->
 <h3><a name="pub">Publication</a></h3>
         <!--<img src="./Page_files/new.gif"/>-->
 	<ul>
-
-
-    <li>
-      <span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Shan Gou, Renjun Hu, Dongxiang Zhang，Jin Xu, Airong Jiang，Ying Li, Hui Xiong;
-          "A Collaborative Learning Framework to Tag Refinement for Points of Interest; 
-      <em>to appear in</em>
-              <strong>KDD 2019</strong>.
-      </li>
-          <br>
 
     <li>
 		Yuan Xia, <span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Jingjia Cao, Yanyan Li, Fei Gao, Kun Liu, Haishan Wu, Hui Xiong;
