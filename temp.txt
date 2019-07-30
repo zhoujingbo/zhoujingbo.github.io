@@ -1,0 +1,7 @@
+  <li>
+      <span class="style5"><font color="#ff6600">Jingbo Zhou</font></span>, Shan Gou, Renjun Hu, Dongxiang Zhang，Jin Xu, Xuehui Wu, Airong Jiang，Hui Xiong;
+          "<a href="./paper/collaborative2019zhou_kdd.pdf">A Collaborative Learning Framework to Tag Refinement for Points of Interest</a>; 
+      <em>to appear in</em>
+              <strong>KDD 2019</strong>.
+      </li>
+          <br>
